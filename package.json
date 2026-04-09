@@ -1,0 +1,25 @@
+{
+  "name": "Moodify",
+  "version": "1.0.0",
+  "description": "Suggests songs based on your mood",
+  "main": "server.js",
+  "dependencies": {
+    "finalhandler": "^0.5.1",
+    "serve-static": "^1.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanu23/Moodify.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santanu23/Moodify/issues"
+  },
+  "homepage": "https://github.com/santanu23/Moodify#readme"
+}
