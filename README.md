@@ -71,11 +71,11 @@ Finding the right music for your mood is harder than it sounds. Scrolling throug
 ```
 songviber/
 ├── demo/
-│   ├── Happy.jpg
+│   ├── happy.png
 │   ├── HappyResult.png
-│   ├── sad.jpg
+│   ├── sad.png
 │   ├── sadResult.png
-│   ├── angry.jpg
+│   ├── angry.png
 │   └── angryResult.png
 │
 ├── public/
