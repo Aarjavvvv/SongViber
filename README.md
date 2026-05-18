@@ -161,15 +161,15 @@ Open your browser at `http://localhost:3000`
 ## 📸 Screenshots
 
 ### Happy
-![Input](demo/Happy.jpg)
+![Input](demo/happy.png)
 ![Result](demo/HappyResult.png)
 
 ### Sad
-![Input](demo/sad.jpg)
+![Input](demo/sad.png)
 ![Result](demo/sadResult.png)
 
 ### Angry
-![Input](demo/angry.jpg)
+![Input](demo/angry.png)
 ![Result](demo/angryResult.png)
 
 ---
@@ -185,8 +185,6 @@ Open your browser at `http://localhost:3000`
 ---
 
 ## 👥 Author
-
-<img src="demo/pfp.jpg" width="80px" style="border-radius: 50%"/>
 
 **Aarjav Mukkirwar**
 Full Stack Developer
